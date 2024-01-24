@@ -18,3 +18,5 @@
 node_modules/
 scss/
 css/style.css.map
+.package-lock.json
+.package.json
